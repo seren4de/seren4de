@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Khalil ELHASSAR 👋</h1>
 
 <p align="center">
-  <b>I am an Embedded Systems Engineer and a junior engineer looking for my first stimulating work experience. I have strong analytical and observational skills and can be fully involved when it comes to teamwork.</b>
+  <b>I am a junior Embedded Systems Engineer, looking for something stimulating to work on.</b>
 </p>
 
 <h2 align="center">Passions</h2>
