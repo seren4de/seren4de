@@ -34,7 +34,7 @@
   📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
  
-<h2 align="center">🟩 Hack The Box Profile</h2>
+<h2 align="center"> <img src="https://img.icons8.com/?size=512&id=19ZtM3mJ2MJZ&format=png" alt="HackTheBox" width="20" height="20"> Hack The Box Profile</h2>
 
 <p align="center">
   Check out my profile on HackTheBox <a href="https://app.hackthebox.com/profile/1439785">seren4de</a>
