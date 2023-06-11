@@ -31,7 +31,7 @@
 <h2 align="center">📫 How to reach me:</h2>
 
 <p align="center">
-  <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
+  📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://i.imgur.com/1GpMfK0.png" alt="LinkedIn" width="20" height="20"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
  
 <h2 align="center">🟩 Hack The Box Profile</h2>
