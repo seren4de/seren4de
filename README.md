@@ -33,3 +33,9 @@
 <p align="center">
   <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
+ 
+<h2 align="center">🟩 Hack The Box Profile</h2>
+
+<p align="center">
+  Check out my <a href="https://app.hackthebox.com/profile/1439785">HackTheBox</a>
+</p>
