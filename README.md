@@ -31,5 +31,5 @@
 <h2 align="center">📫 How to reach me:</h2>
 
 <p align="center">
-  <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/khalil-el-hassar-8b0b1b1b5/">LinkedIn</a>
+  <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
