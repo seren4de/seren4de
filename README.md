@@ -28,7 +28,7 @@
   🇫🇷 French • 🇬🇧🇺🇸 English
 </p>
 
-<h2 align="center">📫 How to reach me:</h2>
+<h2 align="center"> <img src="https://img.icons8.com/?size=512&id=43212&format=png" alt="Contact" width="30" height="30"> How to reach me:</h2>
 
 <p align="center">
   📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
