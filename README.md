@@ -31,7 +31,7 @@
 <h2 align="center"> <img src="https://img.icons8.com/?size=512&id=43212&format=png" alt="Contact" width="25" height="25"> How to reach me:</h2>
 
 <p align="center">
-  📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
+  📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
  
 <h2 align="center"> <img src="https://yt3.ggpht.com/a/AGF-l785CVoAF3kqDmk2SXyaDLZKEyK9lDP8xYnyKw=s900-c-k-c0xffffffff-no-rj-mo" alt="HackTheBox" width="30" height="30"> HackTheBox </h2>
