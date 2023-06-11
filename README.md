@@ -34,7 +34,7 @@
   📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
 </p>
  
-<h2 align="center"> <img src="https://ccsc.org.cy/wp-content/uploads/2019/07/HTB-Logo_Black_Background_vertical-2-768x772.png" alt="HackTheBox" width="30" height="30"> HackTheBox </h2>
+<h2 align="center"> <img src="https://yt3.ggpht.com/a/AGF-l785CVoAF3kqDmk2SXyaDLZKEyK9lDP8xYnyKw=s900-c-k-c0xffffffff-no-rj-mo" alt="HackTheBox" width="30" height="30"> HackTheBox </h2>
 
 <p align="center">
   Check out my profile on HackTheBox <a href="https://app.hackthebox.com/profile/1439785">seren4de</a>
