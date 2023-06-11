@@ -25,7 +25,7 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  🇫🇷 French • 🇬🇧🇺🇸 English • 🇸🇦🇪🇬🇦🇪 Arabic
+  🇫🇷 French • 🇬🇧🇺🇸 English
 </p>
 
 <h2 align="center">📫 How to reach me:</h2>
