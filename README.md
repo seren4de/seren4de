@@ -19,13 +19,13 @@
 <h2 align="center">🚀 Technologies</h2>
 
 <p align="center">
-  🗃️ Version control system (Git) • 🏗️ Software architecture (Spring Boot,<IPAddress>) • ⚙️ System and network administration (Docker,<IPAddress>) • 🎛️ Hardware architecture (MPU/MCU architectures: ARM Cortex-M,<IPAddress>) • 🔌 Microelectronics and CAD (The design of integrated circuits based on CMOS,<IPAddress>) • 📈 Simulation software (ADS,<IPAddress>) • 💻 Integrated development environments (Keil MDK,<IPAddress>)
+  🗃️ Version control system (Git) • 🏗️ Software architecture (Spring Boot, Restfu API) • ⚙️ System and network administration (Docker, Ansible,VMs) • 🎛️ Hardware architecture (MPU/MCU architectures: ARM Cortex-M,<IPAddress>) • 🔌 Microelectronics and CAD (The design of integrated circuits based on CMOS,<IPAddress>) • 📈 Simulation software (ADS,<IPAddress>) • 💻 Integrated development environments (Keil MDK,VS code)
 </p>
 
 <h2 align="center">🌎 Languages</h2>
 
 <p align="center">
-  🇫🇷 French • 🇬🇧🇺🇸 English
+  🇫🇷 French • 🇬🇧 English
 </p>
 
 <h2 align="center"> <img src="https://img.icons8.com/?size=512&id=43212&format=png" alt="Contact" width="25" height="25"> How to reach me:</h2>
