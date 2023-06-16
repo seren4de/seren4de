@@ -19,7 +19,11 @@
 <h2 align="center">🚀 Technologies</h2>
 
 <p align="center">
-  🗃️ Version control system (Git) • 🏗️ Software architecture (Spring Boot, Restfu API) • ⚙️ System and network administration (Docker, Ansible,VMs) • 🎛️ Hardware architecture (MPU/MCU architectures: ARM Cortex-M,<IPAddress>) • 🔌 Microelectronics and CAD (The design of integrated circuits based on CMOS,<IPAddress>) • 📈 Simulation software (ADS,<IPAddress>) • 💻 Integrated development environments (Keil MDK,VS code)
+  🗃️ Version control system (Git) • 🏗️ Software architecture (Spring Boot, REST, SOAP) • ⚙️ System and network administration (Docker, Ansible,VMs) • 🎛️ Hardware architecture (MPU/MCU architectures : ARM Cortex-M,
+Arduino, PIC 16F/18FXX, INTEL 8086/80x86, Raspberry pi, STM32
+Nucleo-64) • 🔌 Microelectronics and CAD (The design of integrated circuits
+based on CMOS, SSD, PCIe/SATA/SAS cards) • 📈 Simulation software (ADS, Proteus isis, CISCO Packet Tracer, NI
+Multisim) • 💻 Integrated development environments (Keil MDK,VS code)
 </p>
 
 <h2 align="center">🌎 Languages</h2>
