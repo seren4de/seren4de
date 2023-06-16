@@ -23,7 +23,7 @@
 Arduino, PIC 16F/18FXX, INTEL 8086/80x86, Raspberry pi, STM32
 Nucleo-64) • 🔌 Microelectronics and CAD (The design of integrated circuits
 based on CMOS, SSD, PCIe/SATA/SAS cards) • 📈 Simulation software (ADS, Proteus isis, CISCO Packet Tracer, NI
-Multisim) • 💻 Integrated development environments (Keil MDK,VS code)
+Multisim)
 </p>
 
 <h2 align="center">🌎 Languages</h2>
