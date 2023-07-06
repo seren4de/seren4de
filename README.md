@@ -10,7 +10,7 @@
   💻 Software development • 🛠️ Hardware design • 📊 Data Science • 🔒 Cybersecurity
 </p>
 
-<h2 align="center"> <img src="https://img.icons8.com/?size=512&id=43212&format=png" alt="Contact" width="25" height="25"> How to reach me:</h2>
+<h2 align="center"> How to reach me: </h2>
 
 <p align="center">
   📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a>
