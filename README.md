@@ -26,10 +26,11 @@
 <h2 align="center"> How to reach me </h2>
 
 <p align="center">
-  📧 <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a> 
+  <img src="./typing/outline-email.svg"> <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a> 
 </p>
+
 <p align="center">
-</h2><a href="https://app.hackthebox.com/profile/1439785"> HackTheBox </a>
+<img src="./typing/hackthebox.svg"> <a href="https://app.hackthebox.com/profile/1439785"> HackTheBox </a>
 </p>
 
 <h2 align="center">
