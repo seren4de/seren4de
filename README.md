@@ -20,9 +20,9 @@
 <h3 align="center"> Hardware </h3>
 <p align="center">
   
-![MPU/MCU architectures](https://img.shields.io/badge/-MPU%2FMCU%20architectures:-008080?style=flat-square) ![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex--M-A100FF?style=flat-square&logo=arm) ![Arduino](https://img.shields.io/badge/-Arduino-00479D?style=flat-square&logo=arduino) ![PIC 16F/18FXX](https://img.shields.io/badge/-PIC%2016F%2F18FXX-3B48E3?style=flat-square) ![INTEL 8086/80x86](https://img.shields.io/badge/-INTEL%208086%2F80x86-0071C5?style=flat-square&logo=intel) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi) ![STM32 Nucleo-64](https://img.shields.io/badge/-STM32%20Nucleo--64-03234B?style=flat-square&logo=stmicroelectronics) 
+![MPU/MCU architectures](https://img.shields.io/badge/-MPU%2FMCU%20architectures::-008080?style=flat-square) ![ARM Cortex-M](https://img.shields.io/badge/-ARM%20Cortex--M-A100FF?style=flat-square&logo=arm) ![Arduino](https://img.shields.io/badge/-Arduino-00479D?style=flat-square&logo=arduino) ![PIC 16F/18FXX](https://img.shields.io/badge/-PIC%2016F%2F18FXX-3B48E3?style=flat-square) ![INTEL 8086/80x86](https://img.shields.io/badge/-INTEL%208086%2F80x86-0071C5?style=flat-square&logo=intel) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi) ![STM32 Nucleo-64](https://img.shields.io/badge/-STM32%20Nucleo--64-03234B?style=flat-square&logo=stmicroelectronics) 
 
-![Microelectronics and CAD](https://img.shields.io/badge/-Microelectronics%20and%20CAD:-008080?style=flat-square) ![ADS](https://img.shields.io/badge/-ADS-FF1100?style=flat-square) ![Proteus isis](https://img.shields.io/badge/-Proteus%20isis-FFCF00?style=flat-square) ![NI Multisim](https://img.shields.io/badge/-NI%20Multisim-FF7F00?style=flat-square)
+![Microelectronics and CAD](https://img.shields.io/badge/-Microelectronics%20and%20CAD::-008080?style=flat-square) ![ADS](https://img.shields.io/badge/-ADS-FF1100?style=flat-square) ![Proteus isis](https://img.shields.io/badge/-Proteus%20isis-FFCF00?style=flat-square) ![NI Multisim](https://img.shields.io/badge/-NI%20Multisim-FF7F00?style=flat-square)
 </p>
 
 <h2 align="center"> How to reach me </h2>
