@@ -4,7 +4,7 @@
   <b>I am a junior Embedded Systems Engineer, looking for something stimulating to work on.</b>
 </p>
 
-<h2 align="center">❤️ Passions</h2>
+<h2 align="center">❤ Passions</h2>
 
 <p align="center">
   💻 Software development • 🛠️ Hardware design • 📊 Data Science • 🔒 Cybersecurity
