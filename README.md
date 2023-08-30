@@ -30,7 +30,7 @@
 <h2 align="center"> How to reach me </h2>
 
 <p align="center">
-  <img src="./typing/outline-email.svg" alt="email" width="34" height="34" style="vertical-align: middle;"> <a href="mailto:a.khalilelhassar@gmail.com" style="margin-left: -6px;">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15" style="vertical-align: middle;"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a> 
+  <img src="./typing/outline-email.svg" alt="email" width="19" height="19" style="vertical-align: middle;"> <a href="mailto:a.khalilelhassar@gmail.com">Email</a> • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="15" height="15" style="vertical-align: middle;"> <a href="https://www.linkedin.com/in/khalil-el-hassar-716097210">LinkedIn</a> 
 </p>
 
 <p align="center">
