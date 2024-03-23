@@ -1,8 +1,3 @@
-<p align="center">
-
-![Typing GIF](./typing/term.gif)
-</p>
-
 
 <h3 align="center"> Passions </h3>
 <p align="center">
