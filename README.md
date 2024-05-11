@@ -21,28 +21,29 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B" alt="C/C++">
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/assembly.png" alt="Assembly" height="20">
-  <img src="https://img.shields.io/badge/-Bash-grey?style=flat&logo=gnu-bash" alt="Bash">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/java.png" alt="Java" height="20">
+  <img src="https://img.shields.io/badge/-Assembly-007ACC?style=flat&logo=assembly" alt="Assembly">
+  <img src="https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash" alt="Bash">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/-VHDL-A100FF?style=flat" alt="VHDL">
   <img src="https://img.shields.io/badge/-SQL-white?style=flat&logo=mysql" alt="SQL">
   <img src="https://img.shields.io/badge/-XML-F7DF1E?style=flat&logo=xml" alt="XML">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/active-directory.png" alt="Active Directory" height="20">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/openldap.png" alt="LDAP" height="20">
+  <img src="https://img.shields.io/badge/-Active%20Directory-0078D7?style=flat&logo=active-directory" alt="Active Directory">
+  <img src="https://img.shields.io/badge/-LDAP-FF0000?style=flat&logo=ldap" alt="LDAP">
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-Docker-2466ED?style=flat&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible" alt="Ansible">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Node.js-335933?style=flat&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/hackthebox.svg" alt="Hack The Box" height="20">
+  <img src="https://img.shields.io/badge/-Hack%20The%20Box-082936?style=flat&logo=hack-the-box" alt="Hack The Box">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark" alt="Wireshark">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/ghidra.png" alt="Ghidra" height="20">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/IDA.png" alt="IDA Pro" height="20">
+  <img src="https://img.shields.io/badge/-Ghidra-FF4500?style=flat&logo=ghidra" alt="Ghidra">
+  <img src="https://img.shields.io/badge/-IDA%20Pro-007ACC?style=flat&logo=ida-pro" alt="IDA Pro">
   <img src="https://img.shields.io/badge/-Go-black?style=flat&logo=go" alt="Go">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/zeek.png" alt="Zeek" height="20">
-  <img src="https://raw.githubusercontent.com/seren4de/seren4de/main/ico/capev2.png" alt="CAPEV2" height="20">
+  <img src="https://img.shields.io/badge/-Zeek-4B0082?style=flat&logo=zeek" alt="Zeek">
+  <img src="https://img.shields.io/badge/-CAPEV2-8B008B?style=flat&logo=capev2" alt="CAPEV2">
 </p>
+
 
 <h2 align="center">Platforms</h2>
 
