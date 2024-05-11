@@ -18,8 +18,6 @@
 
 <h2 align="center">Skills</h2>
 
-<h2 align="center">Skills</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B" alt="C/C++">
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python">
