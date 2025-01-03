@@ -1,4 +1,4 @@
-<table width="100%" border="0" cellspacing="0">
+<h3 width="100%" border="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -37,4 +37,4 @@
 
 </td>
 </tr>
-</table>
+</h3>
